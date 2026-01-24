@@ -1,3 +1,3 @@
 Power BI dashboard files
 
-![Dashboard overview](dashboard/dashboard Power BI.png)
+![Dashboard overview](dashboard/dashboard_power_bi.png)
