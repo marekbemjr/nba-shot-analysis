@@ -1,4 +1,3 @@
 Power BI dashboard files
 
-- dashboard screen
-- dashboard file .pbix
+![Dashboard overview](dashboard/dashboard Power BI.png)
