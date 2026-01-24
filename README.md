@@ -20,7 +20,8 @@ SQL done, Power BI in progress
 
 ## Power BI Dashboard – Storytelling
 
-![Dashboard overview](dashboard/dashboard_power_bi.png)
+![Dashboard overview](dashboard/dashboard_power_bi_1.png)
+![Dashboard overview](dashboard/dashboard_power_bi_2.png)
 
 ### Project Goal
 The goal of this dashboard is to analyze NBA shooting efficiency and understand
