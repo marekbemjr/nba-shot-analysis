@@ -4,7 +4,6 @@ ROUND(AVG(shot_made)*100,2) AS FG_percent
 FROM shot_logs;
 
 
-
 --2PT vs 3PT
 SELECT 
 shot_type,
@@ -21,6 +20,7 @@ COUNT(*) AS attempts,
 ROUND(AVG(shot_made)*100,2) AS FG_percent
 FROM shot_logs
 GROUP BY shot_distance
+HAVING COUNT(*) >= 20
 ORDER BY shot_distance;
 
 
