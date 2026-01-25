@@ -10,9 +10,9 @@ This confirms the dataset is realistic and suitable for performance analysis.
 
 
 
+## 2. FG% dla 2PT vs 3PT
 
-
-
+![FG% dla 2PT vs 3PT](fg_by_shot_type.csv)
 
 
 ## 3. Shooting Efficiency by Distance
@@ -30,10 +30,7 @@ This supports the idea that shot selection is crucial for scoring efficiency.
 ##4 Top 10 Players (min 100 shots)
 Top performers
 
-Player	        Attempts	    FG%
-deandre jordan,    786        71.25%
-tyson chandler     680        67.65%
-rudy gobert        534        62.55'
+![10 players](top_10_players.csv)
 
 
 Insight
