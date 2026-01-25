@@ -1,4 +1,8 @@
-## NBA Shot Performance Analysis - SQL
+<h1 align="center" style="color:#1f77b4;">
+ NBA Shot Performance Analysis - SQL
+</h1>
+
+Data Results are available here [data results](results/insights.md)
 
 ### Goal
 Analyze shooting efficiency and identify trends.
@@ -17,8 +21,10 @@ Analyze shooting efficiency and identify trends.
 SQL done, Power BI in progress
 
 
+<h1 align="center" style="color:#1f77b4;">
+  Power BI Dashboard
+</h1>
 
-## Power BI Dashboard – Storytelling
 
 ![Dashboard overview](dashboard/dashboard_power_bi_1.png)
 ![Dashboard overview](dashboard/dashboard_power_bi_2.png)
