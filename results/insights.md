@@ -39,13 +39,8 @@ This shows strong player differentiation and highlights high efficiency scorers.
 
 
 ## 5 Performance by Quarter
-1	46.05
-2	45.11
-3	45.71
-4	44.01
-5	39.04
-6	43.45
-7	37.21
+
+![Shooting Perf](shooting_perf_per_quartel.csv)
 
 Shooting efficiency varies across quarters.
 Possible reasons:
@@ -54,7 +49,7 @@ Possible reasons:
 -game pressure
 
 
-##6 Clutch Time (last minute)
+## 6 Clutch Time (last minute)
 
 Clutch FG%: 40.31%
 
@@ -64,7 +59,7 @@ Shot efficiency in clutch time is: 40.31%
 lower than average → pressure effect
 
 
-##Key insights##
+## Key insights ##
 
 2PT shots are more efficient than 3PT
 
