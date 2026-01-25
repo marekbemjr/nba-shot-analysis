@@ -1,8 +1,14 @@
+### Data Source & Tools
+
+This project is based on a publicly available NBA shot dataset sourced from Kaggle.  
+The analysis was performed using SQL (PostgreSQL) for data preparation and aggregation, and Power BI for visualization and insights.
+
+
 <h1 align="center" style="color:#1f77b4;">
  NBA Shot Performance Analysis - SQL
 </h1>
 
-Data Results are available here [data results](results/insights.md)
+SQL Data Results are available here [data results](results/insights.md)
 
 ### Goal
 Analyze shooting efficiency and identify trends.
